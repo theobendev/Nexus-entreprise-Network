@@ -1,4 +1,4 @@
-# Cahier des charges — NEXUS Engineering
+# Cahier des charges De NEXUS Engineering
 
 ## Entreprise
 NEXUS Engineering, bureau d'études en ingénierie industrielle, ~140 employés,
